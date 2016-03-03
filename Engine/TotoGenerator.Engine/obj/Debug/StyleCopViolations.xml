@@ -1,0 +1,3 @@
+<StyleCopViolations>
+  <Violation LineNumber="68" Source="C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\Startup.cs" RuleNamespace="StyleCop.CSharp.CsParser" Rule="SyntaxException" RuleId="SA0102">A syntax error has been discovered in file C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\Startup.cs on line 68.</Violation>
+</StyleCopViolations>

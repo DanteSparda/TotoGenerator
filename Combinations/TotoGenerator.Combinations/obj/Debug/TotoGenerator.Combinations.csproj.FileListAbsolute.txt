@@ -1,0 +1,5 @@
+C:\Users\Vladi\Desktop\TotoGenerator\Combinations\TotoGenerator.Combinations\bin\Debug\TotoGenerator.Combinations.dll
+C:\Users\Vladi\Desktop\TotoGenerator\Combinations\TotoGenerator.Combinations\bin\Debug\TotoGenerator.Combinations.pdb
+C:\Users\Vladi\Desktop\TotoGenerator\Combinations\TotoGenerator.Combinations\obj\Debug\TotoGenerator.Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Desktop\TotoGenerator\Combinations\TotoGenerator.Combinations\obj\Debug\TotoGenerator.Combinations.dll
+C:\Users\Vladi\Desktop\TotoGenerator\Combinations\TotoGenerator.Combinations\obj\Debug\TotoGenerator.Combinations.pdb

@@ -1,0 +1,10 @@
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Engine.exe.config
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Engine.exe
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Engine.pdb
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Combinations.dll
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Common.dll
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Combinations.pdb
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Common.pdb
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.exe
+C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.pdb
