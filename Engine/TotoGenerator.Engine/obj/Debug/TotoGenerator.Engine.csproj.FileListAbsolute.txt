@@ -8,3 +8,13 @@ C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoG
 C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.csprojResolveAssemblyReference.cache
 C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.exe
 C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.pdb
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Engine.exe.config
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.exe
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.pdb
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Engine.exe
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Engine.pdb
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Combinations.dll
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Common.dll
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Combinations.pdb
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\bin\Debug\TotoGenerator.Common.pdb
+D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\obj\Debug\TotoGenerator.Engine.csprojResolveAssemblyReference.cache

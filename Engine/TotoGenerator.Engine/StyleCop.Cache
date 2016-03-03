@@ -1,5 +1,8 @@
 <stylecopresultscache>
   <version>12</version>
+  <project key="203762417">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/03/03 15:07:15.715</styleCop>
@@ -46,11 +49,14 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-292725228">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="Startup.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/03/03 15:07:15.715</styleCop>
       <settingsFile>2016/03/03 15:11:07.704</settingsFile>
-      <sourceFile>2016/03/03 15:17:02.353</sourceFile>
+      <sourceFile>2016/03/03 18:48:54.262</sourceFile>
       <parser>2016/03/03 15:07:15.715</parser>
       <StyleCop.CSharp.DocumentationRules>2016/03/03 15:07:15.715</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1417107012</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -69,13 +75,10 @@
     </timestamps>
     <violations>
       <violation namespace="StyleCop.CSharp.CsParser" rule="SyntaxException" ruleCheckId="SA0102">
-        <context>A syntax error has been discovered in file C:\Users\Vladi\Desktop\TotoGenerator\Engine\TotoGenerator.Engine\Startup.cs on line 68.</context>
+        <context>A syntax error has been discovered in file D:\Programirane\TotoGenerator\Engine\TotoGenerator.Engine\Startup.cs on line 68.</context>
         <line>68</line>
         <warning>False</warning>
       </violation>
     </violations>
   </sourcecode>
-  <project key="203762417">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
 </stylecopresultscache>

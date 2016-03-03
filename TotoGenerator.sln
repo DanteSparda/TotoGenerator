@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotoGenerator.Engine", "Eng
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotoGenerator.Common", "Common\TotoGenerator.Common\TotoGenerator.Common.csproj", "{0F0A3C4E-359A-452E-8AC9-B3C7C8A59DBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotoGenerator.Tests", "Tests\TotoGenerator.Tests\TotoGenerator.Tests.csproj", "{BB85D414-DA15-4B44-946E-BD79DF2010AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0F0A3C4E-359A-452E-8AC9-B3C7C8A59DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F0A3C4E-359A-452E-8AC9-B3C7C8A59DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F0A3C4E-359A-452E-8AC9-B3C7C8A59DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB85D414-DA15-4B44-946E-BD79DF2010AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB85D414-DA15-4B44-946E-BD79DF2010AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB85D414-DA15-4B44-946E-BD79DF2010AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB85D414-DA15-4B44-946E-BD79DF2010AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

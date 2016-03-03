@@ -7,7 +7,7 @@ namespace TotoGenerator.Engine
     public class Startup
     {
         public static void Main()
-        {                        
+        {         
             WelcomeMessage();
             ConsoleKeyInfo keyinfo;
             do

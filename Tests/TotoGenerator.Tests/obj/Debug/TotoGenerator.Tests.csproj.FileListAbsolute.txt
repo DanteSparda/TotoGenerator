@@ -1,0 +1,9 @@
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\obj\Debug\TotoGenerator.Tests.csprojResolveAssemblyReference.cache
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\bin\Debug\TotoGenerator.Tests.dll
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\bin\Debug\TotoGenerator.Tests.pdb
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\bin\Debug\TotoGenerator.Combinations.dll
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\bin\Debug\TotoGenerator.Common.dll
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\bin\Debug\TotoGenerator.Combinations.pdb
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\bin\Debug\TotoGenerator.Common.pdb
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\obj\Debug\TotoGenerator.Tests.dll
+D:\Programirane\TotoGenerator\Tests\TotoGenerator.Tests\obj\Debug\TotoGenerator.Tests.pdb
